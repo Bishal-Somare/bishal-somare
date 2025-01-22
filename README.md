@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Bishal-Somare
+ 👋 Hi, I’m @Bishal-Somare-Magar
 
 
