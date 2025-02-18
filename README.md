@@ -44,7 +44,7 @@ I am a backend developer currently pursuing my studies at Oxford College. I have
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUNSzPxe2kJ1-4e_tvJadE8OWtkekzKbkbg&s" align="center" style="width: 100%" />
+<img src="https://tenor.com/dUvmrLFsXSJ.gif" align="center" style="width: 100%" />
 </div>  
 
 
