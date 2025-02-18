@@ -44,7 +44,7 @@ I am a backend developer currently pursuing my studies at Oxford College. I have
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://www.google.com/imgres?q=samurai%20gif%204k&imgurl=https%3A%2F%2Fmedia.tenor.com%2FbtVzymTCr0sAAAAM%2Fsamurai.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fsamurai-gif-25708569&docid=cugbdA4dgcfnRM&tbnid=H_sXf9_8HuPImM&vet=12ahUKEwjGuJ7ylc2LAxViT2wGHd92NcsQM3oECG4QAA..i&w=220&h=298&hcb=2&ved=2ahUKEwjGuJ7ylc2LAxViT2wGHd92NcsQM3oECG4QAA" align="center" style="width: 100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd5wG4eTFOZGrNVzL94Ps9OvUZCVmq8dbE2g&s" align="center" style="width: 100%" />
 </div>  
 
 
