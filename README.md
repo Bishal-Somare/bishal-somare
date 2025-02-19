@@ -99,21 +99,13 @@ I am a backend developer currently pursuing my studies at Oxford College. I have
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" />
 </a>  
 
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" alt="Pandas" height="25" />
-</a>  
-
-<a href="https://matplotlib.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/matplotlib.svg" alt="Matplotlib" height="25" />
-</a>  
+ 
 
 <a href="https://wordpress.com/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" />
 </a>  
 
-<a href="https://moz.com/learn/seo" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/seo-icon.svg" alt="SEO" height="25" />
-</a>  
+
 
 <a href="https://www.php.net/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />
@@ -135,9 +127,6 @@ I am a backend developer currently pursuing my studies at Oxford College. I have
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />
 </a>  
 
-<a href="https://www.geeksforgeeks.org/data-structures/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dsa-icon.svg" alt="DSA" height="25" />
-</a>  
 
 
 </div>  
