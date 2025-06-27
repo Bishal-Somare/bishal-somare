@@ -125,6 +125,21 @@ I am a backend developer currently pursuing my studies at Oxford College. I have
 <a href="https://www.docker.com/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="45" />
 </a>
+<a href="https://numpy.org/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="45" />
+</a>  
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="45" />
+</a>  
+<a href="https://matplotlib.org/" target="_blank">
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="45" />
+</a>  
+<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
+  <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" height="45" />
+</a>  
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="45" />
+</a>  
 
 </div>  
 
