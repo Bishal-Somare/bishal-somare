@@ -140,12 +140,7 @@ I am a backend developer currently pursuing my studies at Oxford College. I have
 <a href="https://powerbi.microsoft.com/" target="_blank">
   <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="45" />
 </a>  
-<a href="#" target="_blank">
-  <img style="margin: 10px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-mathematics-science-education-flaticons-lineal-color-flat-icons.png" alt="Mathematics" height="45" />
-</a>  
-<a href="#" target="_blank">
-  <img style="margin: 10px" src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/000000/external-statistics-education-smashingstocks-flat-smashing-stocks.png" alt="Statistics" height="45" />
-</a> 
+
 
 </div>  
 
