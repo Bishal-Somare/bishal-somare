@@ -44,8 +44,7 @@ I am a backend developer currently pursuing my studies at Oxford College. I have
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3Nj
- ExbWwyNWZ5bmdzMTU3dDltbm14cXI1dGFqdDAweWltYnY0bnJrN2t1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" align="center" style="width: 100%" />
+<img src=" https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDE5Y3BhZXNmeGRqd2M4aW01Y2o0bzhha3h3azZqMDUyemJ6eHR2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yMMJB4678mvyq3b4d2/giphy.gif" align="center" style="width: 100%" />
 </div>  
 <!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDE5Y3BhZXNmeGRqd2M4aW01Y2o0bzhha3h3azZqMDUyemJ6eHR2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yMMJB4678mvyq3b4d2/giphy.gif
  -->
