@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I’m a passionate backend developer, data enthusiast, and content creator who loves solving real-world problems using practical code. My current focus is on **scalable web systems, API development, data visualization**, and **automation with tools like Docker and PostgreSQL**.
+I’m a passionate backend developer, data enthusiast who loves solving real-world problems using practical code. My current focus is on **scalable web systems, API development, data visualization**, and **automation with tools like Docker and PostgreSQL**.
 
 * 🔭 Currently building **Sales & Customer Management Systems** with Django + PostgreSQL  
 * 🌱 Learning deeper concepts in **Microservices, AI integration, and DRF + FastAPI**  
