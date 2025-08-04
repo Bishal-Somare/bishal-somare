@@ -81,19 +81,3 @@ I’m a passionate backend developer, data enthusiast who loves solving real-wor
 </div>
 
 ---
-
-## 💡 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bishal-Somare&label=Profile%20views&color=0e75b6&style=flat" />
-</div>
-
-<div align="center">
-  <b>"Build something that outlives your code."</b>
-</div>
