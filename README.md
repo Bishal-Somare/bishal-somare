@@ -29,7 +29,7 @@ I’m a passionate backend developer, data enthusiast who loves solving real-wor
 ### 🌐 Frameworks & Backend
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
+
 
 ### 🗃️ Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
