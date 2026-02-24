@@ -1,7 +1,7 @@
 # Hi there, I'm Bishal Somare Magar! 👋
 
 <div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Django+%7C+FastAPI;Data+Analytics+Explorer+%7C+ML+Dockerizer;Open+to+Collaboration+%7C+Always+Learning;Building+Real-World+Projects+with+Impact" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Django+%7C+FastAPI;Data+Analytics+Explorer+%7C+GEN AI DEVELOPER ;Open+to+Collaboration+%7C+Always+Learning;Building+Real-World+Projects+with+Impact" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
