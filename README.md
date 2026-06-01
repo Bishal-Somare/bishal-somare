@@ -2,44 +2,52 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Django+%7C+FastAPI;Data+Analytics+Explorer+%7C+Gen+AI+Developer;Open+to+Collaboration+%7C+Always+Learning;Building+Real-World+Projects+with+Impact"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFD5&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Django+%7C+DRF+%7C+FastAPI;Python+Developer+%7C+API+Development+%7C+PostgreSQL;Generative+AI+Explorer+%7C+Data+Analytics+Enthusiast;Open+Source+Learner+%7C+Always+Building"
     alt="Typing SVG"
   />
 </div>
 
+---
+
 ## 🚀 About Me
 
-I’m a passionate backend developer, data enthusiast who loves solving real-world problems using practical code. My current focus is on **scalable web systems, API development, data visualization**, and **automation with tools like Docker and PostgreSQL**.
+I'm a Software Engineering student and Backend Developer passionate about building scalable web applications, REST APIs, and data-driven solutions.
 
-* 🔭 Currently building **Sales & Customer Management Systems** with Django + PostgreSQL  
-* 🌱 Learning deeper concepts in **Microservices, AI integration, and DRF + FastAPI**  
-* 💡 Exploring **Data Analytics, Power BI, Pandas, NumPy, and Matplotlib**  
-* 🛠️ Hands-on with **Dockerization of ML projects** and containerized web backends  
-* 💬 Ask me anything about Django, REST API, Python, PostgreSQL, or Docker  
-* 📫 Contact me on: [LinkedIn](https://www.linkedin.com/in/bishal-somare-magar/) or [Email](mailto:vishalsomare.mgt@gmail.com)  
+- 🎓 Software Engineering Student
+- 💼 Completed Backend Developer Internship (Python, Django, PostgreSQL)
+- 🔭 Building backend and full-stack projects
+- 🌱 Learning Cloud Computing, DevOps, System Design, and Microservices
+- 🤖 Exploring Generative AI and LLM-powered applications
+- 🐧 Working with Linux, Docker, Git, and Virtualization
+- 📊 Interested in Data Analytics and Business Intelligence
+- 💬 Ask me about Python, Django, REST APIs, PostgreSQL, Git, Docker, and Linux
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🧠 Languages
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 
-### 🌐 Frameworks & Backend
+### 🌐 Backend & Frameworks
+
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-red?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-
 ### 🗃️ Databases
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 📊 Data & Analytics
+### 📊 Data Analytics
+
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
@@ -47,9 +55,40 @@ I’m a passionate backend developer, data enthusiast who loves solving real-wor
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ### ⚙️ DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
+---
+
+## 🎯 Current Focus
+
+- Backend Engineering with Django & FastAPI
+- REST API Development
+- PostgreSQL Database Design
+- Docker & Containerization
+- Cloud Technologies
+- Generative AI Applications
+- Data Analytics & Visualization
+- Open Source Contributions
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/bishal-somare-magar/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vishalsomare.mgt@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -84,3 +123,7 @@ I’m a passionate backend developer, data enthusiast who loves solving real-wor
 </div>
 
 ---
+
+### 💡 Personal Motto
+
+> Keep learning, keep building, and let projects speak louder than certificates.
